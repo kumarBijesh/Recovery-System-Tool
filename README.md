@@ -1,0 +1,1 @@
+This tool helps you to understand how other cyber forensic tools work like FTK imager and Atopsy Tool. I just made it from  python which is a basic language for creating cyber security tool. Approx all the tools which works on kali linux is developed in python.
